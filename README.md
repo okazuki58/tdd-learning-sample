@@ -12,7 +12,7 @@
 ## 🚩 学習の流れ
 
 1. リポジトリをクローンして環境をセットアップする
-2. GitHubのIssueを確認し、課題内容を理解する
+2. GitHubの[Issue](https://github.com/okazuki58/tdd-learning-sample/issues)を確認し、課題内容を理解する
 3. テストが通るように`src/`の中にコードを実装する
 4. コードを書いたらコミットしてGitHubにPushする
 5. GitHub Actionsで自動テストが実行され、結果が表示される
